@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nvar LocationWrapper = styled.div.withConfig({\n  displayName: \"Locationstyle__LocationWrapper\",\n  componentId: \"sc-1w0bp38-0\"\n})([\"padding:29px 0;.location_meta{margin-bottom:29px;}a{&:hover{color:#31b8bd;}}\"]);\nexport default LocationWrapper;","map":null,"metadata":{},"sourceType":"module"}

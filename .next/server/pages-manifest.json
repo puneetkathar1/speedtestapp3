@@ -1,0 +1,16 @@
+{
+  "/404": "pages/404.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/account-settings": "pages/account-settings.js",
+  "/add-hotel": "pages/add-hotel.js",
+  "/forget-password": "pages/forget-password.js",
+  "/": "pages/index.js",
+  "/listing": "pages/listing.js",
+  "/post/[slug]": "pages/post/[slug].js",
+  "/pricing-plan": "pages/pricing-plan.js",
+  "/profile": "pages/profile.js",
+  "/sign-in": "pages/sign-in.js",
+  "/sign-up": "pages/sign-up.js",
+  "/_error": "pages/_error.js"
+}
